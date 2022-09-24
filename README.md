@@ -2,7 +2,7 @@
 Portal 2 chinese subtitles optimized patch
 
 # What is this?
-A "Better Chinese Translation Mod" for a video called Portal 2
+A "Better Chinese Translation Mod" for a video game called Portal 2
 
 这是电子游戏《传送门2》的一个汉化补丁。
 
