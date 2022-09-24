@@ -23,7 +23,8 @@ A "Better Chinese Translation Mod" for a video game called Portal 2
 版本：v2.4
 最后更新 2022.7.7 11:17
 使用方法：  
-           下载完后解压，然后把得到的portal2文件夹复制到游戏根目录下覆盖
+           
+	   下载完后解压，然后把得到的portal2文件夹复制到游戏根目录下覆盖
 
            进入游戏 控制台输入 cc_lang schineseyh 回车 即为优化版字幕
 	   
