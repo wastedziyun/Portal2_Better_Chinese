@@ -1,8 +1,7 @@
-# portal2-chinese-optimized-patch
-Portal 2 chinese subtitles optimized patch
+# Portal 2 Better Chinese
 
 # What is this?
-A "Better Chinese Translation Mod" for a video game called Portal 2
+A "Better Chinese Translation Mod" for a video game called Portal 2.
 
 这是电子游戏《传送门2》的一个汉化补丁。
 
@@ -18,10 +17,10 @@ A "Better Chinese Translation Mod" for a video game called Portal 2
 
 
 # Below is the original Readme.txt in the .zip file.
-以下为原包文件中所含README.txt
+以下为原包文件中所含README.txt。
 
-版本：v2.4
-最后更新 2022.7.7 11:17
+版本：v2.4.2
+最后更新 2022.12.21
 使用方法：  
            
 	   下载完后解压，然后把得到的portal2文件夹复制到游戏根目录下覆盖
@@ -64,3 +63,7 @@ A "Better Chinese Translation Mod" for a video game called Portal 2
 修复了【意外惊喜】sp_a2_column_blocker (也就是惊喜那一章节第一关-柱之阻挡)缺失字幕的问题（搞了好久
 修复第二章双激光中最后一句的翻译
 cave部分字幕润色。
+
+2022.12.21 v2.4.2
+根据 pigexue 提议修复了部分小炮塔对话
+润色了cave的部分字幕
