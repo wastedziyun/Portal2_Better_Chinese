@@ -60,7 +60,7 @@ A "Better Chinese Translation Mod" for a video game called Portal 2.
 修复部分问题
 
 2022.7.7 v2.4
-修复了【意外惊喜】sp_a2_column_blocker (也就是惊喜那一章节第一关-柱之阻挡)缺失字幕的问题（搞了好久
+修复了【意外惊喜】sp_a2_column_blocker (即惊喜那一章节第一关-柱之阻挡)缺失字幕的问题（搞了好久
 修复第二章双激光中最后一句的翻译
 cave部分字幕润色。
 
